@@ -117,6 +117,6 @@ class ViewController: UIViewController {
         btnSound.play()
     }
     
-
+//SMENTA LINIJA
 }
 
